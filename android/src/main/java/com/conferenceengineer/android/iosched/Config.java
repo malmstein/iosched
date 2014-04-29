@@ -23,13 +23,13 @@ import java.util.TimeZone;
 
 public class Config {
     // Log tag
-    public static final String LOG_TAG = "DCNL2013";
+    public static final String LOG_TAG = "ADD2014";
 
     // General configuration
-    public static final int CONFERENCE_YEAR = 2013;
+    public static final int CONFERENCE_YEAR = 2014;
 
     // Conference times
-    public static final TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("Europe/Amsterdam");
+    public static final TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("Europe/Istanbul");
     public static final String CONFERENCE_TIME_ZONE_OFFSET = "+03:00";
 
     public static final long CONFERENCE_START_MILLIS = ParserUtils.parseTime("2014-05-16T10:00:00.000" + CONFERENCE_TIME_ZONE_OFFSET);
