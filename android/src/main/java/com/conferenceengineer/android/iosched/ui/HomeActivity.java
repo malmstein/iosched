@@ -310,6 +310,10 @@ public class HomeActivity extends BaseActivity implements
             menu.removeItem(R.id.menu_feedback);
         }
 
+        if(Config.WIFI_SSID == null) {
+            menu.removeItem(R.id.menu_wifi);
+        }
+
         return true;
     }
 
