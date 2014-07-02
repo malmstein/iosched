@@ -45,7 +45,7 @@ public class Config {
     public static final String FEEDBACK_URL = "http://es.droidcon.com/2014/programa/";
 
     // OAuth 2.0 related config
-    public static final String APP_NAME = "DroidconNL2013-Android";
+    public static final String APP_NAME = "DroidconMadrid2014-Android";
 
     // Conference API-specific config
     public static final String EVENT_ID = "857";
