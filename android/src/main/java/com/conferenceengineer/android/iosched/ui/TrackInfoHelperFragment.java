@@ -26,7 +26,7 @@ import android.support.v4.app.LoaderManager;
 import android.support.v4.content.CursorLoader;
 import android.support.v4.content.Loader;
 
-import com.conferenceengineer.android.iosched.conference686.R;
+import com.conferenceengineer.android.iosched.conference857.R;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract;
 
 /**

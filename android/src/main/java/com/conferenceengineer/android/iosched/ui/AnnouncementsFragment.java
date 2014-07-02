@@ -33,7 +33,7 @@ import android.view.ViewGroup;
 import android.widget.AbsListView;
 import android.widget.ListView;
 
-import com.conferenceengineer.android.iosched.conference686.R;
+import com.conferenceengineer.android.iosched.conference857.R;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract;
 import com.conferenceengineer.android.iosched.social.Tweet;
 import com.conferenceengineer.android.iosched.util.UIUtils;

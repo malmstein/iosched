@@ -38,7 +38,7 @@ import android.util.Log;
 import android.widget.TextView;
 import android.widget.Toast;
 import com.conferenceengineer.android.iosched.Config;
-import com.conferenceengineer.android.iosched.conference686.R;
+import com.conferenceengineer.android.iosched.conference857.R;
 
 import java.util.List;
 

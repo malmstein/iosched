@@ -28,7 +28,7 @@ import android.support.v7.app.ActionBar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.conferenceengineer.android.iosched.conference686.R;
+import com.conferenceengineer.android.iosched.conference857.R;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract;
 import com.conferenceengineer.android.iosched.ui.*;
 import com.conferenceengineer.android.iosched.util.UIUtils;

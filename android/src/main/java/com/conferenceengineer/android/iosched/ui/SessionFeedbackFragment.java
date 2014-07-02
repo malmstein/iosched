@@ -33,7 +33,7 @@ import android.widget.RadioGroup;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.conferenceengineer.android.iosched.conference686.R;
+import com.conferenceengineer.android.iosched.conference857.R;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract.Feedback;
 

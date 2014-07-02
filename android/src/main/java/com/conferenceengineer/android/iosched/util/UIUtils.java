@@ -45,9 +45,10 @@ import android.text.style.StyleSpan;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+
 import com.conferenceengineer.android.iosched.Config;
-import com.conferenceengineer.android.iosched.conference686.BuildConfig;
-import com.conferenceengineer.android.iosched.conference686.R;
+import com.conferenceengineer.android.iosched.conference857.BuildConfig;
+import com.conferenceengineer.android.iosched.conference857.R;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract.Blocks;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract.Rooms;

@@ -16,9 +16,9 @@
 
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.conferenceengineer.android.iosched.conference686"
+    package="com.conferenceengineer.android.iosched.conference857"
     android:versionCode="201328"
-    android:versionName="2013.28"
+    android:versionName="2013.29"
     android:installLocation="auto">
 
     <uses-sdk
@@ -59,8 +59,8 @@
 
     <application
         android:label="@string/app_name"
-        android:icon="@drawable/conference_ic_launcher"
-        android:logo="@drawable/conference_actionbar_logo"
+        android:icon="@drawable/ic_launcher"
+        android:logo="@drawable/actionbar_logo"
         android:theme="@style/Theme.IOSched"
         android:hardwareAccelerated="true"
         android:allowBackup="true"
@@ -333,7 +333,7 @@
 
         <provider
             android:name="com.conferenceengineer.android.iosched.provider.ScheduleProvider"
-            android:authorities="com.conferenceengineer.android.iosched.conference686"
+            android:authorities="com.conferenceengineer.android.iosched.conference857"
             android:writePermission="com.conferenceengineer.android.iosched.permission.WRITE_SCHEDULE"
             android:syncable="true"
             android:label="@string/app_name"
