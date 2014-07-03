@@ -32,7 +32,7 @@ public class Config {
     public static final TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("Europe/Madrid");
     public static final String CONFERENCE_TIME_ZONE_OFFSET = "+01:00";
 
-    public static final long CONFERENCE_START_MILLIS = ParserUtils.parseTime("2014-07-03T16:00:00.000" + CONFERENCE_TIME_ZONE_OFFSET);
+    public static final long CONFERENCE_START_MILLIS = ParserUtils.parseTime("2014-07-03T15:00:00.000" + CONFERENCE_TIME_ZONE_OFFSET);
     public static final long CONFERENCE_END_MILLIS = ParserUtils.parseTime("2014-07-05T17:30:00.000" + CONFERENCE_TIME_ZONE_OFFSET);
 
     // The base URL for event data
