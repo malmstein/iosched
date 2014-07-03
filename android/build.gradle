@@ -35,9 +35,23 @@ android {
         targetSdkVersion 18
     }
 
-    buildTypes {
+    signingConfigs {
         release {
-            runProguard true
+            storeFile file("../droidcon-es-release.keystore")
+            keyAlias "droidcones"
+            storePassword "droidcones123"
+            keyPassword "droidcones123"
         }
     }
+
+    buildTypes {
+        debug {
+            runProguard false
+        }
+        release {
+            runProguard false
+            signingConfig signingConfigs.release
+        }
+    }
+
 }

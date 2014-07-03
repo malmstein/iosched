@@ -1,0 +1,230 @@
+<!--
+  Copyright 2012 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_search">Buscar</string>
+    <string name="description_refresh">Recargar</string>
+    <string name="description_share">Compartir</string>
+    <string name="description_add_schedule">Añadir a calendario</string>
+    <string name="description_remove_schedule">Quitar del calendario</string>
+    <string name="description_social_stream">Ver Tweets</string>
+    <string name="description_compose">Nuevo post</string>
+    <string name="description_feedback">Enviar Feedback</string>
+    <string name="description_about">Acerca de</string>
+    <string name="description_configure_wifi">Configurar Wi-Fi</string>
+    <string name="description_settings">Opciones</string>
+
+    <string name="title_sessions">Sesiones</string>
+    <string name="title_session_detail">Detalle de la sesión</string>
+    <string name="title_session_feedback">Feedback sobre la sesión</string>
+    <string name="title_tracks">Tracks</string>
+    <string name="title_office_hours">Horario de oficina</string>
+    <string name="title_sandbox">Sandbox</string>
+    <string name="title_sandbox_detail">Información sobre la empresa</string>
+    <string name="title_tagstream">Twitter Posts</string>
+    <string name="title_announcements">Noticias</string>
+    <string name="title_about">Acerca de</string>
+    <string name="title_settings">Opciones</string>
+
+    <string name="title_share">Compartir con</string>
+
+    <string name="title_search">Buscar</string>
+    <string name="title_search_query">Buscar por \"&lt;b&gt;<xliff:g id="query">%1$s</xliff:g>&lt;b&gt;\"</string>
+
+    <string name="title_my_schedule">Calendario</string>
+    <string name="title_explore">Explorar</string>
+    <string name="title_stream">Tweets</string>
+
+    <plurals name="title_selected_sessions">
+        <item quantity="one">1 sesiónn</item>
+        <item quantity="other"><xliff:g id="num_sessions">%1$d</xliff:g> sesiones</item>
+    </plurals>
+
+    <string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> en <xliff:g id="room">%2$s</xliff:g></string>
+
+    <string name="all_tracks">Todas las tracks</string>
+    <string name="all_tracks_sessions">Todas las sesiones</string>
+    <string name="all_tracks_office_hours">Todas las sesiones de oficina</string>
+    <string name="all_tracks_sandbox">Todas las empresas</string>
+    <string name="other_tracks">Otras tracks</string>
+
+    <string name="empty_sessions">No se han encontrado sesiones.</string>
+    <string name="empty_session_detail">No se han encontrado detalles de la sesión.</string>
+    <string name="empty_sandbox">No se han encontrado empresas para el developer sandbox.</string>
+    <string name="empty_social_stream">No se ha encontrado posts.</string>
+    <string name="empty_announcements">Las noticias aparecerán aqui.</string>
+    <string name="empty_waiting_for_sync">Sincronizando&#8230;</string>
+
+    <string name="unknown_room">(Sala sin especificar)</string>
+
+    <string name="session_links">Más</string>
+    <string name="session_requirements">Requerimientos</string>
+    <string name="session_speakers">Speakers</string>
+
+    <string name="session_link_main">Web link</string>
+    <string name="session_link_youtube">YouTube video</string>
+    <string name="session_link_moderator">Moderador</string>
+    <string name="session_link_pdf">Slides (PDF)</string>
+    <string name="session_link_notes">Notas oficiales</string>
+
+    <string name="codelab_title_template">Code Lab: <xliff:g id="title">%1$s</xliff:g></string>
+
+    <string name="search_hint">Busar sesiones</string>
+
+    <string name="share_template">Checking out \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
+
+    <string name="add_to_schedule">Añadir a calendario</string>
+    <string name="remove_from_schedule">En calendario</string>
+
+    <string name="add_to_schedule_desc">Añadir a calendario</string>
+    <string name="remove_from_schedule_desc">Quitar del calendario</string>
+
+    <!-- Announcements -->
+    <string name="whats_on_thank_you_short">Gracias!</string>
+    <string name="whats_on_thank_you_title">Nos vemos el año que viene!</string>
+    <string name="whats_on_feedback_title">Envíanos tu feedback</string>
+    <string name="news_will_appear_here">Las noticias aparecerán aquí</string>
+
+
+    <plurals name="toast_added_to_schedule">
+        <item quantity="one">Sesión añadida al calendario</item>
+        <item quantity="other"><xliff:g id="number_of_sessions">%1$s</xliff:g> sesiones añadidas al calendario</item>
+    </plurals>
+    <plurals name="toast_removed_from_schedule">
+        <item quantity="one">Sesión eliminada del calendario</item>
+        <item quantity="other"><xliff:g id="number_of_sessions">%1$s</xliff:g> sesiones quitadas del calendario</item>
+    </plurals>
+
+    <!-- Schedule -->
+    <string name="schedule_empty_slot_title_template">Ver <xliff:g id="block_type">%1$s</xliff:g>&#8230;</string>
+    <string name="schedule_empty_slot_subtitle">Añade una sesión al calendario</string>
+    <string name="schedule_conflict_title"><xliff:g id="num_sessions">%1$s</xliff:g> sesiones elegidas</string>
+    <string name="schedule_conflict_subtitle">Conflicto en slot</string>
+    <string name="schedule_block_title_sessions">Sesiones</string>
+    <string name="schedule_block_title_code_labs">Code Labs</string>
+    <string name="schedule_block_title_office_hours">Office Hours</string>
+    <string name="schedule_block_title_keynote">Keynote</string>
+    <string name="schedule_block_title_sandbox">Sandbox</string>
+
+    <!-- EULA, login, and about -->
+    <string name="description_setup_wifi_body"><![CDATA[
+        We can set up this device to access the conference Wi-Fi network automatically.
+        By configuring your Wi-Fi now, you\'ll help prevent network congestion.
+    ]]></string>
+    <string name="calltoaction_wifi_configure"><![CDATA[
+        <br><br>Tap \'Add Wi-Fi Network\' to proceed.
+    ]]></string>
+    <string name="calltoaction_wifi_settings"><![CDATA[
+        <br><br>Tap \'Open Wi-Fi Settings\' to enable Wi-Fi.
+    ]]></string>
+    <string name="wifi_dialog_button_configure">Añadir Red Wi-Fi</string>
+    <string name="wifi_dialog_button_settings">Abrir Opciones Wi-Fi</string>
+    <string name="about_eula">End User License Agreement</string>
+    <string name="about_licenses">Open Source Licenses</string>
+    <string name="about_body"><![CDATA[
+        <b>Conference Engineer</b><br>
+        Version %s<br/>
+        (Based on iosched 2013)
+    ]]></string>
+
+    <!--suppress AndroidLintTypographyOther -->
+    <string name="eula_text"><![CDATA[
+        By downloading, installing or using this application or any portion thereof
+        (\"Application\"), you agree to these terms and conditions.<br>
+        <br>
+        THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+        ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+        OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
+        THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+        EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+        GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED
+        AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+        NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+        OF THE POSSIBILITY OF SUCH DAMAGE.    ]]></string>
+
+    <!-- Session notification -->
+    <plurals name="session_notification_ticker">
+        <item quantity="one">1 sesión está a punto de empezar.</item>
+        <item quantity="other">%d sesiones están a punto de empezar.</item>
+    </plurals>
+
+    <string name="session_notification_text_1">enpieza en <xliff:g id="remaining_time">%1$d</xliff:g> min.</string>
+    <plurals name="session_notification_text">
+        <item quantity="one">y 1 más empiezan en <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+        <item quantity="other">y <xliff:g id="num_sessions">%2$d</xliff:g> más empiezan en <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+    </plurals>
+    <plurals name="session_notification_title">
+        <item quantity="one">1 sesión empieza en <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+        <item quantity="other"><xliff:g id="num_sessions">%2$d</xliff:g> sesiones empiezan en <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+    </plurals>
+    <string name="snooze_x_min">Snooze <xliff:g id="remaining_time">%1$d</xliff:g> min.</string>
+
+    <!-- Others -->
+    <string name="ok">OK</string>
+    <string name="loading">Cargando&#8230;</string>
+    <string name="stream_error">No se ha podido cargar el feed de Twitter.</string>
+    <string name="empty_widget_text">No hay mas sesiones.\nNos vemos el año que viene!</string>
+
+    <string name="now_playing_badge"><![CDATA[<font color="#4d90fe"><small><b>AHORA</b></small></font>]]></string>
+    <string name="session_finished">Finalizada</string>
+
+    <!-- Strings only used for accessibility -->
+    <string name="speaker_googleplus_profile">Perfil de Google+ : <xliff:g id="speakername">%1$s</xliff:g></string>
+    <string name="more_sessions">Más sesiones</string>
+    <string name="more_announcements">Más noticias</string>
+    <string name="plus_one_description_standard">Pulsar para plus one.</string>
+
+    <!-- Preferences -->
+    <string name="pref_local_times_title">Mostrar horas locales</string>
+    <string name="wifi_install_error_message">Lo sentimos, no se ha podido actualizar la configuración WiFi</string>
+    <string name="wifi_install_success_message">Red WiFi añadida correctamente</string>
+
+    <!-- Feedback -->
+    <string name="session_feedback_submitlink">Enviar Feedback</string>
+    <string name="session_rating_label">Valorar la sesión:</string>
+
+    <string name="session_feedback_relevance">
+        Cómo relevante ha sido la sesión para tus proyectos?
+    </string>
+
+    <string name="session_feedback_notgreat">Tampoco era para tanto</string>
+    <string name="session_feedback_great">Genial</string>
+
+    <string name="session_feedback_notrel">Nada relevante</string>
+    <string name="session_feedback_rel">Relevante</string>
+
+    <string name="session_feedback_content">El contenido era:</string>
+    <string name="session_feedback_basic">Demasiado básico</string>
+    <string name="session_feedback_advanced">Demasiado avanzado</string>
+
+    <string name="session_feedback_speaker_quality">Calidad del speaker:</string>
+    <string name="session_feedback_poor">Pobre</string>
+    <string name="session_feedback_outstanding">Espectacular</string>
+    <string name="session_feedback_tell_us">Cuéntanos!</string>
+    <string name="session_feedback_6months">
+        Usarás ésta tecnología en los próximos 6 meses?
+    </string>
+    <string name="session_feedback_probably">Probable</string>
+    <string name="session_feedback_probnot">No es probable</string>
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="session_feedback_other">Algo más que debamos saber?</string>
+
+    <!-- More Misc -->
+    <string name="stream_retweets">%d RT</string>
+</resources>

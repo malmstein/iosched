@@ -1,0 +1,29 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">DroidconES 2014</string>
+
+  <string name="all_tracks_subtitle_sessions">Todas las sesiones de Droidcon MAD 2014.</string>
+  <string name="all_tracks_subtitle_office_hours">Todas las horas de oficina en Droidcon MAD 2014.</string>
+  <string name="all_tracks_subtitle_sandbox">Todas las empresas del developer sandbox en Droidcon MAD 2014.</string>
+
+  <string name="search_label">Sesiones de Droidcon MAD 2014</string>
+
+  <string name="whats_on_countdown_title_0"><xliff:g id="remaining_time">%1$s</xliff:g>\nhasta Droidcon MAD 2014</string>
+  <plurals name="whats_on_countdown_title">
+    <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> dia, <xliff:g id="remaining_time">%2$s</xliff:g>\nhasta Droidcon MAD 2014</item>
+    <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> dias, <xliff:g id="remaining_time">%2$s</xliff:g>\nhasta Droidcon MAD 2014</item>
+  </plurals>
+  <string name="whats_on_thank_you_subtitle">Droidcon MAD 2014 ha acabado.</string>
+
+  <string name="welcome_to_google_i_o">Bienvenidos a Droidcon MAD 2014!</string>
+
+  <string name="permission_write">Modificar datos del calendario de Droidcon MAD 2014</string>
+
+    <string name="dashclock_extension_description">
+      Muestra los próximos eventos en tu calendario de Droidcon MAD 2014.
+    </string>
+
+  <string name="keynote_room">Hall A</string>
+
+  <string name="pref_local_times_description">Si marcado, muestra horas locales en lugar de horario del telefono</string>
+
+</resources>
