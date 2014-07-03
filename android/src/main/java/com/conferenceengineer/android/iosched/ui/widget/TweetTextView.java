@@ -8,7 +8,7 @@ import android.text.style.ForegroundColorSpan;
 import android.text.style.StyleSpan;
 import android.util.AttributeSet;
 import android.widget.TextView;
-import com.conferenceengineer.android.iosched.conference857.R;
+import com.conferenceengineer.android.iosched.droidcones2014.R;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

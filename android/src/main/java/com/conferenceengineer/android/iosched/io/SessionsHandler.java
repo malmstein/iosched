@@ -23,7 +23,7 @@ import android.net.Uri;
 import android.text.TextUtils;
 
 import com.conferenceengineer.android.iosched.Config;
-import com.conferenceengineer.android.iosched.conference857.R;
+import com.conferenceengineer.android.iosched.droidcones2014.R;
 import com.conferenceengineer.android.iosched.io.model.SessionResponse;
 import com.conferenceengineer.android.iosched.io.model.SessionsResponse;
 import com.conferenceengineer.android.iosched.io.model.TrackResponse;

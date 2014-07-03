@@ -42,7 +42,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import com.conferenceengineer.android.iosched.conference857.R;
+import com.conferenceengineer.android.iosched.droidcones2014.R;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract;
 import com.conferenceengineer.android.iosched.service.SessionAlarmService;
 import com.conferenceengineer.android.iosched.ui.widget.ObservableScrollView;

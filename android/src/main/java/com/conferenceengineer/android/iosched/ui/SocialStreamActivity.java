@@ -20,7 +20,7 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.Menu;
 import android.view.MenuItem;
-import com.conferenceengineer.android.iosched.conference857.R;
+import com.conferenceengineer.android.iosched.droidcones2014.R;
 import com.conferenceengineer.android.iosched.util.ImageLoader;
 import com.conferenceengineer.android.iosched.util.UIUtils;
 

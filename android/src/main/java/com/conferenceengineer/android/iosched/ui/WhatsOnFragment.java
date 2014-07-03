@@ -37,7 +37,7 @@ import android.view.animation.TranslateAnimation;
 import android.widget.TextView;
 
 import com.conferenceengineer.android.iosched.Config;
-import com.conferenceengineer.android.iosched.conference857.R;
+import com.conferenceengineer.android.iosched.droidcones2014.R;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract.Announcements;
 import com.conferenceengineer.android.iosched.util.TimeUtils;
 import com.conferenceengineer.android.iosched.util.UIUtils;

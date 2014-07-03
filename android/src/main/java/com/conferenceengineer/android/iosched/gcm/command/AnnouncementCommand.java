@@ -20,7 +20,7 @@ import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
 import android.support.v4.app.NotificationCompat;
-import com.conferenceengineer.android.iosched.conference857.R;
+import com.conferenceengineer.android.iosched.droidcones2014.R;
 import com.conferenceengineer.android.iosched.gcm.GCMCommand;
 import com.conferenceengineer.android.iosched.ui.HomeActivity;
 

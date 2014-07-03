@@ -35,7 +35,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.*;
 
-import com.conferenceengineer.android.iosched.conference857.R;
+import com.conferenceengineer.android.iosched.droidcones2014.R;
 import com.conferenceengineer.android.iosched.provider.ScheduleContract;
 import com.conferenceengineer.android.iosched.ui.TracksAdapter;
 import com.conferenceengineer.android.iosched.util.ParserUtils;
